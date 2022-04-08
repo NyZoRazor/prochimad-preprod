@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+
+<!--    <record id="vaccount_invoice_report_inherit_commision" model="ir.ui.view">-->
+<!--         <field name="name">vaccount_invoice_report_inherit_commision</field>-->
+<!--         <field name="model">account.invoice.report</field>-->
+<!--        <-->
+<!--         <field name="arch" type="xml">-->
+<!--             <pivot string="Invoices Analysis" disable_linking="True" sample="1">-->
+<!--                 <field name="product_categ_id" type="col"/>-->
+<!--                 <field name="invoice_date" type="row"/>-->
+<!--                 <field name="price_subtotal" type="measure"/>-->
+<!--             </pivot>-->
+<!--         </field>-->
+<!--    </record>-->
+    </data>
+</odoo>
